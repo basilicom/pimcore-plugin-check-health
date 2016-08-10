@@ -1,0 +1,20 @@
+{
+  "name": "basilicom-pimcore-plugin/check-health",
+  "type": "pimcore-plugin",
+  "license": "BSD-3-Clause",
+  "description": "A Pimcore plugin that performs various checks regarding system health.",
+  "keywords": ["pimcore", "plugin", "admin", "administration", "check", "health", "monitoring"],
+  "homepage": "http://basilicom.de/en/pimcore",
+  "authors": [
+    {
+      "name": "basilicom Team",
+      "email": "info@basilicom.de",
+      "homepage": "http://basilicom.de/en/pimcore",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "pimcore/installer-plugin": ">=1",
+    "php": ">=5.6.0"
+  }
+}
